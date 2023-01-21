@@ -1,8 +1,8 @@
-# Images Gallery
+# Galeria de Fotos
 
 ![preview](./images/preview.png)
 
-- Cardápio Online
+- Projeto Teste de uma Galeria de Fotos
 
  [Clique aqui para acessar](https://pictures-gallery.vercel.app/)
 
